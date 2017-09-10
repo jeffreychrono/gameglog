@@ -1,0 +1,2 @@
+# gameglog
+GitHub Pages
